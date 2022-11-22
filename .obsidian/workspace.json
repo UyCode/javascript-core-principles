@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "7e363c0e5fe41d41",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b8a794af23032cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9029a0bd28463ba7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8227b52dd515ac8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "659817cde7b0d5a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "525b7b81054140d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d0b7612107927261",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#特例中的特例 ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f8b2b398f50ca2a6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bd875b27e5623e35",
+    "type": "split",
+    "children": [
+      {
+        "id": "41910a5a18bdc7e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0eddee76623d9717",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6fb763a536f6e00c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "25499868f9f8625a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "66410706829ddb5e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9029a0bd28463ba7",
+  "lastOpenFiles": [
+    "part3/2.new.md",
+    "part2/3.lambda.md",
+    "Call.md",
+    "ready.md",
+    "README.md",
+    "part2/2.executables.md",
+    "part1/2.var-statement.md",
+    "part1/1.delete-zero.md",
+    "part1/3.confused-question.md",
+    "part1/4.export-default-function.md"
+  ]
+}
